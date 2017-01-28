@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="open-file-icon">Resources/open-file-icon.png</file>
+        <file alias="next-page-icon">Resources/next-image-icon.png</file>
+        <file alias="previous-page-icon">Resources/previous-image-icon.png</file>
+        <file alias="show-timestamps-icon">Resources/show-timestamps-icon.png</file>
+        <file alias="subtitles-icon">Resources/subtitles-icon.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file alias="subtitler_ru">subtitler_ru.qm</file>
+        <file alias="qtbase_ru">Resources/qtbase_ru.qm</file>
+    </qresource>
+</RCC>
